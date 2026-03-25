@@ -19,3 +19,4 @@
 - fix: link the usage section
 - fix: fix a small wording issue
 - docs: add a note about the defaults
+- fix: clarify the setup steps
